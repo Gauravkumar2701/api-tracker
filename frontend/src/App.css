@@ -1,0 +1,21 @@
+
+.header{
+  font-size: xx-large;
+  text-align: center;
+  font-weight: 600;
+}
+
+.request-table{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.charts{
+  height: 30rem;
+  display: flex;
+  direction: row;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+}
